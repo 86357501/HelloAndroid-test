@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ebebeb"
+        android:orientation="vertical" >
+
+        <EditText
+            android:id="@+id/house_search"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/shape"
+            android:cursorVisible="false"
+            android:drawableLeft="@drawable/magnifying_glass"
+            android:drawablePadding="5dp"
+            android:ems="10"
+            android:hint="房产编号/5200  业主姓名/王尼玛"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:textColorHint="#ebebeb"
+            android:textSize="18sp" 
+            android:imeOptions="actionDone">
+
+            <requestFocus />
+        </EditText>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#d8d8d8" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <ListView
+            android:id="@+id/mylistview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="#ebebeb"
+            android:dividerHeight="1dp"
+            android:scrollbars="none"
+            android:visibility="invisible" >
+        </ListView>
+
+        <TextView
+            android:id="@+id/mytextview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" 
+            android:text="请查找！"
+            android:textSize="30sp"
+            android:textColor="@color/black"
+            android:gravity="center"/>
+    </RelativeLayout>
+
+</LinearLayout>

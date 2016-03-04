@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\release\\drawable\\main_navigation_2.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\drawable\\main_navigation_2.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\release\\drawable\\color2.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\drawable\\color2.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\release\\drawable\\main_navigation_4.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\drawable\\main_navigation_4.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\release\\drawable\\main_navigation_1.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\drawable\\main_navigation_1.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\release\\drawable\\main_navigation_color.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\drawable\\main_navigation_color.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\release\\drawable\\main_button_color.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\drawable\\main_button_color.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\release\\drawable\\shape2.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\drawable\\shape2.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\release\\drawable\\shape.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\release\\drawable\\color1.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\drawable\\color1.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\release\\drawable\\main_navigation_3.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\drawable\\main_navigation_3.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\release\\drawable\\dropdown_bg_selector.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\drawable\\dropdown_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\release\\drawable\\dropdown_list_selector.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\drawable\\dropdown_list_selector.xml"
+    }
+]

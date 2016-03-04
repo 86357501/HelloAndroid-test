@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\debug\\layout\\button_information.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\layout\\button_information.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_friend.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\layout\\fragment_friend.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\debug\\layout\\dropdownlist_popupwindow.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\layout\\dropdownlist_popupwindow.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\debug\\layout\\test_activity.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\layout\\test_activity.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\debug\\layout\\dropdownlist_view.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\layout\\dropdownlist_view.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_content.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\layout\\fragment_content.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_personal.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\layout\\fragment_personal.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\debug\\layout\\bottomsend.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\layout\\bottomsend.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\debug\\layout\\doorphoneguest.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\layout\\doorphoneguest.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\debug\\layout\\my_spinner_dropdownlist.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\layout\\my_spinner_dropdownlist.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_phone.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\layout\\fragment_phone.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\debug\\layout\\house_edit.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\layout\\house_edit.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\debug\\layout\\my_spinner.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\layout\\my_spinner.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\debug\\layout\\my_title.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\layout\\my_title.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\debug\\layout\\house_activity.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\layout\\house_activity.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\debug\\layout\\device_activity.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\layout\\device_activity.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_house.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\layout\\list_item_house.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\debug\\layout\\dropdown_list_item.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\layout\\dropdown_list_item.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\debug\\layout\\title_activity.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\layout\\title_activity.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\debug\\layout\\doorphone.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\layout\\doorphone.xml"
+    }
+]

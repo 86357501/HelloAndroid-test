@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\debug\\anim\\alpha.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\anim\\alpha.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\debug\\anim\\popshow_anim.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\anim\\popshow_anim.xml"
+    },
+    {
+        "merged": "C:\\android\\code\\HelloAndroid\\build\\intermediates\\res\\merged\\debug\\anim\\pophidden_anim.xml",
+        "source": "C:\\android\\code\\HelloAndroid\\res\\anim\\pophidden_anim.xml"
+    }
+]
